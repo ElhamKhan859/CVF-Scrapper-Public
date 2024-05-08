@@ -3,7 +3,7 @@
 ## Introduction
 The CVF Open Access Downloader is a Python application designed to bulk download open-access papers from CVF (Computer Vision Foundation) conferences. This guide will walk you through the process of using the application to download papers to your local machine.
 
-![CVF Open Access Downloader Demo](cvf_scapper.gif)
+![CVF Open Access Downloader Demo](cvf_scrapper.gif)
 
 ## System Requirements
 - Operating System: Windows
