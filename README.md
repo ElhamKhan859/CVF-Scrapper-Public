@@ -12,7 +12,7 @@ The CVF Open Access Downloader is a Python application designed to bulk download
 ## Usage
 1. Download the application files from the provided source.
 2. Extract the contents of the downloaded ZIP file to a folder on your computer.
-3. Launch the application by double-clicking the executable file (`CVF_Open_Access_Downloader.exe`).
+3. Launch the application by double-clicking the executable file.
 4. The application window will appear with options to specify the year range and output folder.
 5. Select the year range from the dropdown menu. By default, the range starts from 2013 to the current year.
 6. Click the "Browse" button to choose the output folder where the downloaded papers will be saved.
