@@ -37,4 +37,4 @@ The CVF Open Access Downloader is a Python application designed to bulk download
 ## Get the product here:
 - [CVF Scrapper](https://naimelham.gumroad.com/l/cvfscrapper)
 - Demo is included in this repository (can only download up to 50 papers)
-- Youtube video: 
+- [YouTube Tutorial](https://youtu.be/8Kfl2I76rYM)
