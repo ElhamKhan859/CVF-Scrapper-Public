@@ -27,7 +27,7 @@ The CVF Open Access Downloader is a Python application designed to bulk download
 
 ## Troubleshooting
 - If you encounter any errors during the downloading process, check your internet connection and ensure that the specified output folder is accessible and has sufficient storage space.
-- For further assistance, you can contact the developer or refer to the provided documentation.
+- For further assistance, you can contact the developer.
 
 ## About
 - Developed by: Mohammad Naim Elham
