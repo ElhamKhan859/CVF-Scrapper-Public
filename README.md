@@ -6,7 +6,6 @@ The CVF Open Access Downloader is a Python application designed to automate the 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CVF Open Access Downloader User Guide</title>
 </head>
 <body>
     <h1>CVF Open Access Downloader User Guide</h1>
